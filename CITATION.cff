@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Liberación controlada de fármacos por hidrogeles
+message: >-
+  Gemelos Digitales / Ingeniería Biomédica / Tecnológico
+  Nacional de México
+type: software
+authors:
+  - email: L22211746@tijuana.tecn.mx
+    given-names: Bricia Idalia
+    family-names: Arellano Salones
+    affiliation: Tecnológico Nacional de México
+    orcid: 'https://orcid.org/0009-0002-7573-7114'
+repository-code: 'https://github.com/bias8/Practica3GD'
+keywords:
+  - Modelo matemático
+  - 'Ecuaciones diferenciales '
+  - Farmacocinética
+  - ' Hidrogel'
+  - ' 5-fluorouracilo'
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-04-22'
