@@ -23,7 +23,7 @@ En el contexto de sistemas dinámicos que describen sistemas biológicos o fisio
 Determinar la tasa de liberación del hidrogel N36 2MBA3 con base en datos experimentales, durante un tiempo aproximado de 220 minutos. La tasa de liberación se describe de distintas manera por medio de las siguientes ecuaciones: 
 
 	Ecuación de Peppas: $x(t) = kt^(n)$,  (1)
-  Farmacinética de primer orden: $x(t) = \beta(1 - e^{-kt})$, (2)
+  	Farmacinética de primer orden: $x(t) = \beta(1 - e^{-kt})$, (2) 
 	Eureqa: $x(t) = \rho_1 \sqrt t - \rho_2 t$ ,  (3)
 	Eureqa: Farmacocinética de primer orden: $\dot x = \rho_1  - \rho_2 x$ , (4)
   
